@@ -30,11 +30,6 @@ Copyright:
  2017 Public
 License: CC0-1.0
 
-Files: Models/AnimatedMorphSphere/*
-Copyright: 
- 2017 Public
-License: CC0-1.0
-
 Files: Models/AnimatedTriangle/*
 Copyright: 
  2017 Public
@@ -139,6 +134,11 @@ Copyright:
  2017 Public
 License: CC0-1.0
 
+Files: Models/CarbonFibre/*
+Copyright: 
+ 2023 Wayfair
+License: CC-BY-4.0
+
 Files: Models/CesiumMan/*
 Copyright: 
  2017 Cesium
@@ -150,6 +150,11 @@ Copyright:
  2017 Cesium
  2015 Cesium
 License: LicenseRef-CC-BY-TM AND LicenseRef-LegalMark-Cesium
+
+Files: Models/ChairDamaskPurplegold/*
+Copyright: 
+ 2021 Wayfair
+License: CC-BY-4.0
 
 Files: Models/ClearCoatCarPaint/*
 Copyright: 
@@ -165,6 +170,103 @@ Files: Models/ClearcoatWicker/*
 Copyright: 
  2023 Public
 License: CC0-1.0
+
+Files: Models/CompareAlphaCoverage/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareAmbientOcclusion/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareAnisotropy/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareBaseColor/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareClearcoat/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareDispersion/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareEmissiveStrength/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareIor/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareIridescence/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareMetallic/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareNormal/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareRoughness/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareSheen/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareSpecular/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareTransmission/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
+
+Files: Models/CompareVolume/*
+Copyright: 
+ 2017 Khronos Group
+ 2024 Public
+License: LicenseRef-LegalMark-Khronos AND CC0-1.0
 
 Files: Models/Corset/*
 Copyright: 
@@ -182,12 +284,35 @@ Copyright:
  2016 theblueturtle_
 License: CC-BY-4.0 AND CC-BY-NC-4.0
 
+Files: Models/DiffuseTransmissionPlant/*
+Copyright: 
+ 2024 Darmstadt Graphics Group GmbH
+ 2021 Public domain
+License: CC-BY-4.0 AND CC0-1.0
+
 Files: Models/DiffuseTransmissionTeacup/*
 Copyright: 
  2023 Public domain
-License: CC0
+License: CC0-1.0
+
+Files: Models/DirectionalLight/*
+Copyright: 
+ 2020 Public
+License: CC0-1.0
+
+Files: Models/DispersionTest/*
+Copyright: 
+ 2023 AGI
+License: CC-BY-4.0
 
 Files: Models/DragonAttenuation/*
+Copyright: 
+ 1996 Stanford University Computer Graphics Laboratory
+ 2017 Morgan McGuire
+ 2021 Public
+License: LicenseRef-Stanford-Graphics AND CC0-1.0
+
+Files: Models/DragonDispersion/*
 Copyright: 
  1996 Stanford University Computer Graphics Laboratory
  2017 Morgan McGuire
@@ -241,6 +366,11 @@ License: CC-BY-4.0 AND LicenseRef-LegalMark-Khronos
 Files: Models/GlassVaseFlowers/*
 Copyright: 
  2023 Public
+ 2023 Public
+License: CC0-1.0
+
+Files: Models/IORTestGrid/*
+Copyright: 
  2023 Public
 License: CC0-1.0
 
@@ -336,21 +466,26 @@ Copyright:
  2019 Sketchfab
 License: CC-BY-4.0
 
-Files: Models/MultipleScenes/*
-Copyright: 
- 2017 Public
-License: CC0-1.0
-
 Files: Models/MultiUVTest/*
 Copyright: 
  2017 Hilo 3D
  2017 Khronos Group
 License: CC-BY-4.0 AND LicenseRef-LegalMark-Khronos
 
+Files: Models/MultipleScenes/*
+Copyright: 
+ 2017 Public
+License: CC0-1.0
+
 Files: Models/NegativeScaleTest/*
 Copyright: 
  2023 Analytical Graphics, Inc.
 License: CC-BY-4.0
+
+Files: Models/NodePerformanceTest/*
+Copyright: 
+ 2024 Public
+License: CC0-1.0
 
 Files: Models/NormalTangentMirrorTest/*
 Copyright: 
@@ -366,6 +501,23 @@ Files: Models/OrientationTest/*
 Copyright: 
  2017 Unknown
 License: CC-BY-4.0
+
+Files: Models/PlaysetLightTest/*
+Copyright: 
+ 2024 Inter IKEA Systems B.V.
+License: CC BY-NC-SA 4.0
+
+Files: Models/PotOfCoals/*
+Copyright: 
+ 2023 Darmstadt Graphics Group GmbH
+ 2015 Khronos Group
+ 2017 Khronos Group
+License: CC-BY-4.0 AND LicenseRef-LegalMark-Khronos
+
+Files: Models/PrimitiveModeNormalsTest/*
+Copyright: 
+ 2020 public
+License: CC0-1.0
 
 Files: Models/RecursiveSkeletons/*
 Copyright: 
@@ -398,9 +550,25 @@ Copyright:
  2020 Microsoft
 License: CC0-1.0
 
+Files: Models/SheenTestGrid/*
+Copyright: 
+ 2023 Public
+License: CC0-1.0
+
+Files: Models/SheenWoodLeatherSofa/*
+Copyright: 
+ 2024 Darmstadt Graphics Group GmbH
+ 2021 Public domain
+License: CC-BY-4.0 AND CC0-1.0
+
 Files: Models/SimpleInstancing/*
 Copyright: 
  2023 Public
+License: CC0-1.0
+
+Files: Models/SimpleMaterial/*
+Copyright: 
+ 2017 Public
 License: CC0-1.0
 
 Files: Models/SimpleMeshes/*
@@ -422,6 +590,11 @@ Files: Models/SimpleSparseAccessor/*
 Copyright: 
  2017 Public
 License: CC-BY-4.0
+
+Files: Models/SimpleTexture/*
+Copyright: 
+ 2017 Public
+License: CC0-1.0
 
 Files: Models/SpecGlossVsMetalRough/*
 Copyright: 
@@ -499,6 +672,11 @@ Copyright:
  2020 Public
 License: CC0-1.0
 
+Files: Models/TransmissionThinwallTestGrid/*
+Copyright: 
+ 2023 Public
+License: CC0-1.0
+
 Files: Models/Triangle/*
 Copyright: 
  2017 Public
@@ -538,4 +716,9 @@ Files: Models/WaterBottle/*
 Copyright: 
  2017 Public
 License: CC0-1.0
+
+Files: Models/XmpMetadataRoundedCube/*
+Copyright: 
+ 2021 Adam Morris
+License: CC-BY-4.0
 

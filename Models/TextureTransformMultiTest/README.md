@@ -4,6 +4,19 @@
 
 [testing](../../Models-testing.md), [extension](../../Models-extension.md)
 
+## Extensions
+
+### Required
+
+* KHR_texture_transform
+
+### Used
+
+* KHR_texture_transform
+* KHR_materials_clearcoat
+* KHR_materials_unlit
+* KHR_texture_transform
+
 ## Summary
 
 Tests if the KHR_texture_transform extension is supported for several inputs.
