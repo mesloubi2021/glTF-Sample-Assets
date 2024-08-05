@@ -1,0 +1,933 @@
+{
+    "uri": "T03-S10-R2436G.gltf",
+    "mimeType": "model/gltf+json",
+    "validatorVersion": "2.0.0-dev.3.8",
+    "validatedAt": "2024-01-12T02:40:10.722Z",
+    "issues": {
+        "numErrors": 0,
+        "numWarnings": 1,
+        "numInfos": 72,
+        "numHints": 0,
+        "messages": [
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/0/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/2/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/3/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/4/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/5/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/7/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/8/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/9/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/10/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/11/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/12/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/13/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/14/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/15/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/16/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/17/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/18/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/19/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/20/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/21/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/22/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/23/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/24/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/25/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/26/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/27/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/28/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/29/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/30/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/31/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/32/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/33/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/34/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/35/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/36/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/37/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/38/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/39/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/40/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/41/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/42/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/43/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/44/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/45/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/46/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/47/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/48/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/49/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/50/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/51/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/52/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/53/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/54/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/55/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/56/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/57/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/58/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/59/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/60/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/61/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/62/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/63/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/64/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/65/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/66/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/67/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/68/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/69/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/70/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/71/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "UNUSED_OBJECT",
+                "message": "This object may be unused.",
+                "severity": 2,
+                "pointer": "/meshes/72/primitives/0/attributes/TEXCOORD_0"
+            },
+            {
+                "code": "IMAGE_NPOT_DIMENSIONS",
+                "message": "Image has non-power-of-two dimensions: 126x85.",
+                "severity": 2,
+                "pointer": "/images/1"
+            },
+            {
+                "code": "IMAGE_FEATURES_UNSUPPORTED",
+                "message": "Image contains unsupported features like non-default colorspace information, non-square pixels, or animation.",
+                "severity": 1,
+                "pointer": "/images/1"
+            }
+        ],
+        "truncated": false
+    },
+    "info": {
+        "version": "2.0",
+        "generator": "",
+        "resources": [
+            {
+                "pointer": "/buffers/0",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 8720
+            },
+            {
+                "pointer": "/buffers/1",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 75480
+            },
+            {
+                "pointer": "/buffers/2",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/3",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/4",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 1812
+            },
+            {
+                "pointer": "/buffers/5",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 3648
+            },
+            {
+                "pointer": "/buffers/6",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 1812
+            },
+            {
+                "pointer": "/buffers/7",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 194700
+            },
+            {
+                "pointer": "/buffers/8",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 25248
+            },
+            {
+                "pointer": "/buffers/9",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 4688
+            },
+            {
+                "pointer": "/buffers/10",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 4688
+            },
+            {
+                "pointer": "/buffers/11",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 4688
+            },
+            {
+                "pointer": "/buffers/12",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 4688
+            },
+            {
+                "pointer": "/buffers/13",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/14",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/15",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/16",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/17",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/18",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/19",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/20",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/21",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/22",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/23",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/24",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/25",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/26",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/27",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/28",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/29",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/30",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/31",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/32",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/33",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/34",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/35",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/36",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/37",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/38",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/39",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/40",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/41",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/42",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/43",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/44",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/45",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/46",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/47",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/48",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/49",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/50",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/51",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/52",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/53",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 12568
+            },
+            {
+                "pointer": "/buffers/54",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 2712
+            },
+            {
+                "pointer": "/buffers/55",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/56",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/57",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/58",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 194700
+            },
+            {
+                "pointer": "/buffers/59",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 25248
+            },
+            {
+                "pointer": "/buffers/60",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/61",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/62",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/63",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 194700
+            },
+            {
+                "pointer": "/buffers/64",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 25248
+            },
+            {
+                "pointer": "/buffers/65",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/66",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/67",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/68",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 194700
+            },
+            {
+                "pointer": "/buffers/69",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 25248
+            },
+            {
+                "pointer": "/buffers/70",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/71",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/buffers/72",
+                "mimeType": "application/gltf-buffer",
+                "storage": "data-uri",
+                "byteLength": 383176
+            },
+            {
+                "pointer": "/images/0",
+                "mimeType": "image/jpeg",
+                "storage": "data-uri",
+                "image": {
+                    "width": 4096,
+                    "height": 4096,
+                    "format": "rgb",
+                    "bits": 8
+                }
+            },
+            {
+                "pointer": "/images/1",
+                "mimeType": "image/png",
+                "storage": "data-uri",
+                "image": {
+                    "width": 126,
+                    "height": 85,
+                    "format": "rgba",
+                    "primaries": "custom",
+                    "transfer": "custom",
+                    "bits": 8
+                }
+            }
+        ],
+        "animationCount": 0,
+        "materialCount": 8,
+        "hasMorphTargets": false,
+        "hasSkins": false,
+        "hasTextures": true,
+        "hasDefaultScene": false,
+        "drawCallCount": 73,
+        "totalVertexCount": 138382,
+        "totalTriangleCount": 249344,
+        "maxUVs": 1,
+        "maxInfluences": 0,
+        "maxAttributes": 3
+    }
+}
